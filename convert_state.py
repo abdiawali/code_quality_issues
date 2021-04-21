@@ -1,3 +1,7 @@
+'''
+This program converts between US state names, and abbreviations. 
+For example, converting "MN" to "Minnesota" or converting "California" to "CA".
+'''
 import json
 
 
